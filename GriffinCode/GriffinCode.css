@@ -1,0 +1,43 @@
+.navbar {
+    background-color: rgb(236, 173, 238);
+    position: sticky;
+    top: o;
+    height: 60px;
+    width=100%;
+    display: flex;
+    align-items: center;
+    background: rgb(red, green, blue);
+    z-index: 1;
+}
+
+.navbar-center {
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    padding: o.5em;
+}
+
+.nav-icon {
+    font-size: 1.5em;
+}
+
+.cart-btn {
+    cursor: pointer;
+    position: relative;
+}
+
+.cart-items {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    background: var(--primarycolor);
+    padding: o.5px;
+    border-radius: 30%;
+    color: var(--Mainwhite);
+}
+
+.img {
+    size: 50px;
+}
