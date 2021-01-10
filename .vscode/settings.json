@@ -1,0 +1,50 @@
+
+"window.zoomlevel":3,
+"editor.fontsize":26,
+"editor.tabsize":"off",
+"file.autosave":"on
+"editor.Wordwrap":"on",
+"edito.FormatOnPaste":true,
+"editor.minimap.enabled":false'
+"highlight-matching-tag.syles":{
+    "opening":{
+        "left":{
+            "custom":
+            {
+                "boarderwidth":"0 0 0 3px",
+                "boarderstle":"solid",
+                "boaderColor":"yellow",
+                "boarderRadius":"5px"
+            }
+        }
+        "right":{
+            "custom":
+            {
+                "boarderwidth":"0 3px 0 0",
+                "boarderstle":"solid",
+                "boaderColor":"yellow",
+                "boarderRadius":"5px"
+            }
+
+        }
+    }
+}
+"emmet.include languages":{
+    "javascript":"javascriptreact"
+    //"emmet.syntax profiles":{
+        //  // "javascript":"jsx"
+        // //"javscript":"html"
+        //},
+        "terminal.intergrated.fontsize":26,
+       
+    }
+}
+
+
+
+
+
+
+{
+    "liveServer.settings.port": 5500
+}
